@@ -1,0 +1,7 @@
+flask
+sqlalchemy
+flask-sqlalchemy
+flask-smorest
+python-dotenv
+marshmallow
+passlib
